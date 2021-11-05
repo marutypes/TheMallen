@@ -1,4 +1,4 @@
-👋 Hi, I’m Mallory "@TheMallen" Allen, sometimes known as Maru
+👋 Hi, I’m Mallory "@TheMallen" Allen, sometimes known as Maru in the dark corners of the internet.
 
 Some facts:
 - I drink a lot of coffee :coffee:
