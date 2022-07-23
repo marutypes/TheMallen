@@ -3,7 +3,6 @@
 Some facts:
 - I drink a lot of coffee :coffee:
 - I have two adorable cats :two: :x: :cat:
-- I work at [Shopify](https://github.com/shopify) making making commerce better for everyone better for some
 - I’m interested in web development, developer tooling, and virtual reality 👀  :robot: :computer:
 - I’m currently messing around making arcade games with VRChat Udon / UdonSharp 🌱 
 - I've been trying to learn enough rust to function :book: :crab:
