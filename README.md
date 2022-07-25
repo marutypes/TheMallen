@@ -1,4 +1,4 @@
-👋 Hi, I’m Mallory Allen. I code sometimes.
+👋 Hi, I’m Mallory Allen. I write a lot of code for various reasons, professional and un.
 
 Some facts:
 - I drink a lot of coffee :coffee:
